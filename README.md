@@ -43,6 +43,11 @@ running, the states the character is sending, and the live arm, FOV and lag numb
 Room 13 uses **Agentic Targeting**, a separate plugin on Fab. It is included in this build;
 the camera works without it, and in your own project that room needs it.
 
+The console (`~`) also runs the gallery's own self-check, `AgenticCameraShowcase.RunAll`, which
+teleports the character from room to room. In room 10 it stands the character inside the 20°
+ramp, so the picture goes dark with the character in silhouette. Walking into room 10 never
+does this.
+
 ## What it is not
 
 The gallery is built for the editor and Development builds; it is not the shipping part of the
