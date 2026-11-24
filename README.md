@@ -46,7 +46,7 @@ the camera works without it, and in your own project that room needs it.
 The console (`~`) also runs the gallery's own self-check, `AgenticCameraShowcase.RunAll`, which
 teleports the character from room to room. In room 10 it stands the character inside the 20°
 ramp, so the picture goes dark with the character in silhouette. Walking into room 10 never
-does this.
+does this, and the 0.4.0 gallery moves that spot onto the open floor beside the ramps.
 
 ## What it is not
 
