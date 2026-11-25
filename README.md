@@ -17,7 +17,7 @@ Windows 10 or 11, 64-bit, with a DirectX 12 graphics card. The exe is not code-s
 Windows SmartScreen may ask before the first run (More info, then Run anyway).
 
 Move with the keyboard and mouse or a gamepad; the controls are the Game Animation Sample's.
-To lock on in rooms 02, 03, 04, 12 and 13, press right mouse or T.
+To lock on to a target, press right mouse or T.
 Walk through a door and the room's camera takes over. Each room has a plaque on its back wall
 saying what it shows and what to try, and the HUD at the top left shows the mode the camera is
 running, the states the character is sending, and the live arm, FOV and lag numbers.
